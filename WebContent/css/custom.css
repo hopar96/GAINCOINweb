@@ -1,0 +1,9 @@
+@charset "EUC-KR";
+@import url(http://fonts.googleopis.com.ealyaccess/nanumgothic.css);
+@import url(http://fonts.googleopis.com.ealyaccess/hanna.css);
+* {
+	font-family : 'Nanum Gothic';
+}
+h1{
+	font-family : 'Hanna';
+}
